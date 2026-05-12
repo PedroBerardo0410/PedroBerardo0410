@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou Pedro Berado 👋
 
-<!--
-**PedroBerardo0410/PedroBerardo0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Bacharelado em Sistemas de Informação no IFSP** e tenho grande interesse pela área de **desenvolvimento de software**.
 
-Here are some ideas to get you started:
+Atualmente, venho me dedicando aos estudos de **PHP** e **Laravel**, buscando evoluir no desenvolvimento de aplicações web, boas práticas de programação e construção de projetos cada vez mais completos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias de interesse
+- PHP
+- Laravel
+- HTML
+- CSS
+- JavaScript
+- Python
+- Banco de Dados
+
+## 🎯 Objetivos
+- Evoluir como desenvolvedor de software
+- Criar projetos cada vez mais sólidos e organizados
+- Conquistar experiência prática na área de tecnologia
+- Continuar aprendendo e me desenvolvendo constantemente
+
+## Sobre mim
+- 🎓 Estudante de Sistemas de Informação
+- 📚 Aprendizado constante
+- 💻 Interesse em desenvolvimento web
+- 🚀 Em busca de evolução profissional
